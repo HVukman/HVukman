@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HVukman
-- 👀 I’m interested in Numerics
-- 🌱 I’m currently learning Python, Octave
+- 👀 I’m interested in Numerics and AI
+- 🌱 I’m currently learning Python, R
 - 💞️ I’m looking to collaborate on Numerics
 
 
